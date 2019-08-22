@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightApp</string>
+    <string name="escreva_o_que_gostaria_de_ler">Escreva o que gostaria de ler</string>
+    <string name="enviar">Enviar</string>
+</resources>
